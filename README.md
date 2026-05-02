@@ -23,7 +23,7 @@ Navegação entre páginas
 
 ▶️ Como executar o projeto
 # Clone o repositório
-git clone (https://github.com/Fagner-de-paiva/MeuPrimeiroSite.git)
+git clone https://github.com/Fagner-de-paiva/MeuPrimeiroSite.git
 
 # Abra o arquivo index.html no navegador
 
